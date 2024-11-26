@@ -1,4 +1,4 @@
-#BootCamp for Intel Mac's
+# BootCamp for Intel Mac's
 
 Apple Boot Camp is a utility that allows users to install and run Microsoft Windows on Intel-based Macs. It enables users to switch between macOS and Windows by restarting their Mac, providing access to Windows applications and games alongside macOS. The installation process may require a USB drive and varies depending on the Mac model. Here are the key points:
 
